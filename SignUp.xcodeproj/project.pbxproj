@@ -13,6 +13,7 @@
 		EE3E046025430A2E00D90EEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE3E045E25430A2E00D90EEE /* Main.storyboard */; };
 		EE3E046225430A3100D90EEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE3E046125430A3100D90EEE /* Assets.xcassets */; };
 		EE3E046525430A3100D90EEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE3E046325430A3100D90EEE /* LaunchScreen.storyboard */; };
+		EE3E046D25430CC800D90EEE /* signupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3E046C25430CC800D90EEE /* signupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE3E046125430A3100D90EEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE3E046425430A3100D90EEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE3E046625430A3100D90EEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE3E046C25430CC800D90EEE /* signupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = signupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EE3E045825430A2D00D90EEE /* AppDelegate.swift */,
 				EE3E045A25430A2E00D90EEE /* SceneDelegate.swift */,
 				EE3E045C25430A2E00D90EEE /* ViewController.swift */,
+				EE3E046C25430CC800D90EEE /* signupViewController.swift */,
 				EE3E045E25430A2E00D90EEE /* Main.storyboard */,
 				EE3E046125430A3100D90EEE /* Assets.xcassets */,
 				EE3E046325430A3100D90EEE /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				EE3E045D25430A2E00D90EEE /* ViewController.swift in Sources */,
 				EE3E045925430A2D00D90EEE /* AppDelegate.swift in Sources */,
+				EE3E046D25430CC800D90EEE /* signupViewController.swift in Sources */,
 				EE3E045B25430A2E00D90EEE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
